@@ -23,7 +23,7 @@ Currently learning everything AI and Machine Learning.
 
 <h4 align='center'> ↓ Please see the pinned repositories at the bottom of the page for my past projects ↓ </h4> 
 
----
+<!---
 
 
 [![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuppan1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
@@ -36,13 +36,13 @@ Currently learning everything AI and Machine Learning.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuppan1)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
+
 <!-- [![Amar's Wordpress](https://github-readme-wordpress.vercel.app/?username=akuppan1&limit=3)](https://datatreasureblog.wordpress.com) -->
 
 
 
--->
-||
-|---|---|
+
 
 
 
