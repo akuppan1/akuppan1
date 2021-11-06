@@ -23,7 +23,7 @@
 name: GitHub metrics
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "0 * * * *"
   push:
     branches: 
       - master
@@ -99,3 +99,4 @@ jobs:
 #           plugin_projects_repositories: lowlighter/metrics/projects/1
 #           plugin_projects_limit: 0
 #           config_timezone: America/Los_Angeles
+
