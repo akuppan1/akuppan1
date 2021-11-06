@@ -54,7 +54,7 @@ Currently learning everything AI and Machine Learning.
 
 
 
-
+<!-- 
 
 ---
 
@@ -69,4 +69,4 @@ Currently learning everything AI and Machine Learning.
 
 
 
-## Past Projects
+## Past Projects -->
