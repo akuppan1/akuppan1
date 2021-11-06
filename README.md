@@ -41,7 +41,7 @@ Currently learning everything AI and Machine Learning.
 
 
 -->
-|![](https://github.com/akuppan1/akuppan1/blob/main/metrics.svg)|![](https://github.com/akuppan1/akuppan1/blob/main/metrics.additional.svg)|
+||
 |---|---|
 
 
