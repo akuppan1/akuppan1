@@ -15,5 +15,4 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
         plugin_isocalendar:
-        description: Display an isometric view of your commits calendar
-        default: yes
+        
