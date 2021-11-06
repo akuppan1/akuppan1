@@ -7,7 +7,7 @@
 # 
 # You'll notice that my workflow use a lot of different tokens :
 # - README_SECRET which is an auto-generated token provided by GitHub used to commit your metrics on your repository
-# - METRICS_TOKEN which is my personal scope-less token  
+# - README_SECRET which is my personal scope-less token  
 # - METRICS_BOT_TOKEN which is a bot account token with more scopes that I use for plugins which requires additional scopes
 # 
 # There are also a few application tokens : 
@@ -40,7 +40,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.README_SECRET }}
           committer_token: ${{ secrets.README_SECRET }}
           base: "header, activity, repositories"
           plugin_lines: yes
@@ -66,7 +66,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.additional.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.README_SECRET }}
           committer_token: ${{ secrets.README_SECRET }}
           base: ""
           config_timezone: America/Los_Angeles
