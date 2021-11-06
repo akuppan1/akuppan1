@@ -1,14 +1,13 @@
 <img alt="Header" src="header_image.png">
 
-I grew up in the [***Eastern Sierras***  in California](https://goo.gl/maps/LGFQESQJ6krn6SzM6), spent a few years in Connecticut at boarding school (Go Bearcats!), then came back to the West Coast for my undergraduate work in ***Industrial Engineering and Operations Research*** at the **University of California, Berkeley**, where I recently graduated (Go Bears! 🐻).
+I research data curiousities in my spare time and I hunt houses to buy. 
 
-I usually like to work with data science, machine learning, optimization/mathematical-programming, or similar fields, however, I am *boundless in my curiosity* when it comes to computers, mathematics, and computer science and I am happy to collaborate on projects across any of those disciplines. 
+Currently learning everything AI and Machine Learning. 
 
-When not behind the keyboard, you can catch me out mountain biking, playing a disc sport (Ultimate Frisbee or Disc Golf 🥏), messing around with music (production 🎼, DJing 🎧,or playing piano 🎹), or spending some sort of time with friends and loved ones. 
 
  > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties. 😊
 
-<p><a href="https://twitter.com/wyattowalsh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/wyattowalsh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://medium.com/@wyattowalsh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a> <a href="https://www.kaggle.com/wyattowalsh" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<p><a href="https://twitter.com/wyattowalsh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/akuppannan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://datatreasureblog.wordpress.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a> <a href="https://www.kaggle.com/akuppps" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
 
 ---
