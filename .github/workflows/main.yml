@@ -23,7 +23,7 @@
 name: GitHub metrics
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "1 * * * *"
   push:
     branches: 
       - master
