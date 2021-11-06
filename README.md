@@ -16,9 +16,9 @@ Currently learning everything AI and Machine Learning.
 ## Current Projects
 
 <p align='center'>
-<a href="https://github.com/wyattowalsh/sports-analytics"><img src="https://gh-card.dev/repos/wyattowalsh/sports-analytics.svg"></a>
-<a href="https://github.com/wyattowalsh/generative-art"><img src="https://gh-card.dev/repos/wyattowalsh/generative-art.svg"></a>
-<a href="https://github.com/wyattowalsh/data-science-notes"><img src="https://gh-card.dev/repos/wyattowalsh/data-science-notes.svg"></a>
+<a href="https://github.com/akuppan1/Pet_Detection_Work"><img src="https://gh-card.dev/repos/akuppan1/Pet_Detection_Work.svg"></a>
+<a href="https://github.com/akuppan1/ARMA-Time-series-Analysis-of-Real-Estate"><img src="https://gh-card.dev/repos/akuppan1/ARMA-Time-series-Analysis-of-Real-Estate.svg"></a>
+<a href="https://github.com/akuppan1/Top-5-Zip-Codes-to-Invest-in-USA"><img src="https://gh-card.dev/repos/akuppan1/Top-5-Zip-Codes-to-Invest-in-USA.svg"></a>
 </p>
 
 <h4 align='center'> ↓ Please see the pinned repositories at the bottom of the page for my past projects ↓ </h4> 
