@@ -30,12 +30,12 @@ Currently learning everything AI and Machine Learning.
 
 <!-- ![Amar's github stats](https://github-readme-stats.vercel.app/api?username=akuppan1&count_private=true&show_icons=true&?theme=solarized-dark&hide=prs,issues,contribs&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuppan1&hide=jupyter%20notebook&langs_count=5&layout=compact,html)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuppan1&hide=jupyter%20notebook&langs_count=5&layout=compact,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuppan1)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- [![Amar's Wordpress](https://github-readme-wordpress.vercel.app/?username=akuppan1&limit=3)](https://datatreasureblog.wordpress.com) -->
+[![Amar's Wordpress](https://github-readme-wordpress.vercel.app/?username=akuppan1&limit=3)](https://datatreasureblog.wordpress.com)
 
 
 
