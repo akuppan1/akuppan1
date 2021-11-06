@@ -8,11 +8,7 @@ Currently learning everything AI and Machine Learning.
  > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties. 😊
 
 <p>
-<a href="https://www.linkedin.com/in/akuppannan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> 
-
-<a href="https://datatreasureblog.wordpress.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a> 
-
-<a href="https://www.kaggle.com/akuppps" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akuppannan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://datatreasureblog.wordpress.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a> <a href="https://www.kaggle.com/akuppps" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
 
 ---
