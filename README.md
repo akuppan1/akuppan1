@@ -27,10 +27,10 @@ Currently learning everything AI and Machine Learning.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akuppan1&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akuppan1&count_private=true&show_icons=true&theme=default&hide_rank=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akuppan1&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuppan1" />
 </a>
 
 
