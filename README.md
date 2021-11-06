@@ -30,7 +30,7 @@ Currently learning everything AI and Machine Learning.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akuppan1&count_private=true&show_icons=true&theme=default&hide_rank=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuppan1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuppan1&hide=jupyter%20notebook&langs_count=5&layout=compact,html" />
 </a>
 
 
