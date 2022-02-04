@@ -16,6 +16,7 @@ Currently learning everything AI and Machine Learning.
 ## Current Projects
 
 <p align='center'>
+<a href="https://github.com/akuppan1/NYC_Air_Quality_Analysis"><img src="https://gh-card.dev/repos/akuppan1/NYC_Air_Quality_Analysis.svg"></a>
 <a href="https://github.com/akuppan1/FL_Saratoga_Analysis"><img src="https://gh-card.dev/repos/akuppan1/FL_Saratoga_Analysis.svg"></a>
 <a href="https://github.com/akuppan1/NYC_Evictions_Analysis"><img src="https://gh-card.dev/repos/akuppan1/NYC_Evictions_Analysis.svg"></a>
 <a href="https://github.com/akuppan1/ARMA-Time-series-Analysis-of-Real-Estate"><img src="https://gh-card.dev/repos/akuppan1/ARMA-Time-series-Analysis-of-Real-Estate.svg"></a>
